@@ -1,0 +1,208 @@
+"addon"
+{
+    "DOTA_GAMEMODE_15"        "BOM BattleRoyale"
+    "da_game_info"            "BOM BattleRoyale v1.03 @ Xavier"
+
+    "text_star_title"        "{s:cur} / {s:max}"
+    "text_star_str"        "{s:value}"
+    "text_star_agi"        "{s:value}"
+    "text_star_int"        "{s:value}"
+
+    "DOTA_GoodGuys" "Team 1"
+    "DOTA_BadGuys"  "Team 2"
+    "DOTA_CUSTOM1"  "Team 3"
+    "DOTA_CUSTOM2"  "Team 4"
+    "DOTA_CUSTOM3"  "Team 5"
+    "DOTA_CUSTOM4"  "Team 6"
+    "DOTA_CUSTOM5"  "Team 7"
+    "DOTA_CUSTOM6"  "Team 8"
+    "DOTA_CUSTOM7"  "Team 9"
+    "DOTA_CUSTOM8"  "Team X"
+
+    "rescale_alert_60"     "restricted area appear in 60 seconds"
+    "rescale_alert_30"     "restricted area appear in 30 seconds"
+    "remaining"     ""
+    "fighting_area_rescaled"    "area restricted"
+    "hud_error_ability_is_full" "ability list is full"
+
+    "ability_cant_bigger_than_hero_level"   "ability cant bigger than hero level"
+    "mh_hud_error_ability_reached_max_level"    "ability reached max level"
+    "mh_hud_error_ability_is_full"              "ability is full"
+    "ability_selector_title"                    "PLEASE SELECT YOUR ABILITY"
+    "dont_want"                                 "IGNORE"
+
+    "Chest"                                         "Treasure Chest"
+    "ItemWillSpawn"                                 "IS COMING!"
+    "ItemHasSpawned"                                "MARKED!"
+    "OverthrowHeroPickup"                           "{s:hero_id}"
+    "OverthrowTextPickup"                           "has pickup"
+    "OverthrowItemPickup"                           "{s:item_id}!"
+    "leader_got_nothing"                            "This is an empty box"
+
+    
+
+    "current_season"            "Current season:{d:year}/{d:month}"
+    "bom_ladder"                "WORLD RANK"
+
+    "Donate"                "DONATE"
+    "Rank"                  "RANK"
+    "Shop"                  "Shop"
+    "Collection"            "Collection"
+    "GetPoints"             "Get Points"
+    "Purchase Plus"         "Get Plus"
+
+    "battle_royale_plus"    "BOM Store"
+
+    "need10game"       "PENDING"
+
+    "purchase_cost"             "Cost {s:cost} to purchase"
+    "confirm_purchase_msg"      "Are you sure to play {d:cost} DP to purchse {s:item_name} <br>{s:item_description}"
+
+    "equip"         "EQUIP"
+    "remove"        "REMOVE"
+    "refresh"       "REFRESH"
+
+    "player_max_star"        "Star has reached max amount"
+    "hero_dead"        "DEAD"
+    "world_rank"        "WORLD RANK"
+
+    "gold_not_enough"        "GOLD NOT ENOUGH"
+    "strength_low"        "STRENGTH NOT ENOUGH"
+    "agility_low"        "AGILITY NOT ENOUGH"
+    "intellect_low"        "INTELLECT NOT ENOUGH"
+    "finish_current_state_first"        "PLEASE FINISH YOUR REMOVE ACTION"
+    "have_no_ability"        "HAVE NO ABILITY TO REMOVE"
+    "remove_tooltip"        "RIGHT CLICK to remove, CTRL+RIGHT CLICK an ability to cancel"
+    "ability_cant_bigger_than_hero_level"        "ABILITY LEVEL CANNOT HIGHER THAN HERO"
+
+    "reconnected_to_game"        "JOINED THE BALLTE"
+    "has_abaddon_the_game"        "THE COWARD HAS FLEED"
+    "team_full_disconnect_game_end_in"        "ALL ENEMIES DISCONNECTED, GAME ENDING..."
+    "you_cannot_learn_this_ability"        "YOU HERO CANNOT LEARN THIS ABILITY"
+
+    "hero_selector_title"           "PLEASE SELECT YOUR HERO"
+    "cannot_purchase_this_item_while_dead"  "CANNOT PURCHASE THIS NOW"
+    "cannot_remove_this_ability"            "CANNOT REMOVE THIS ABILITY"
+    "suicide_in_20_seconds"            "SUICIDE IN 20 SECONDS"
+    "purchase_again_to_confirm"         "PURCHASE IT AGAIN TO CONFIRM"
+    "cannot_remove_ability_dead"        "CANNOT REMOVE ABILITY WHEN YOU DIE"
+
+    "custom_end_screen_legend_abilities"    "Abilities"
+    "custom_end_screen_legend_ratings"      "Ratings"
+
+    "vote_for_kills_to_win"         "Vote for Kills"
+    "time_limit"                    "Game Duration: {d:minutes}:{d:seconds}"
+
+    "hud_tooltip_cannot_bash"       "After learn this ability, your hero cannot stun enemy with basher or abyssal blade."
+    "congrates_first_place"         "WINNER WINNER, CHICKEN DINNER"
+    "encourage_runner_ups"        "GOOD LUCK NEXT TIME"
+    "dc_token"      "DC:{d:dc_count}"
+    "hud_tooltip_waiting_for_precache"  "Loading hero data, please do not purchase anything or disconnect before replaced."
+    "hud_tooltip_model_cannot_bash"     "Your basher and abyssal blade will not stun enemy after select this hero."
+
+    "team_select_legend_player_name"        "Player Name"
+    "team_select_legend_rating"     "Rating"
+    "team_select_match_count"       "#Matches"
+    "team_select_disconnect_count"      "Disconnect"
+    "team_select_top1_count"       "TOP1"
+    "team_select_top3_count"        "TOP3"
+    "team_select_average_kda"       "AVG KDA"
+    "team_select_leave_team"        "X"
+
+    "hud_tooltip_rating_and_disconnect" "Connected to rating server, if you leave game before 5 minutes, points lose will be doubled. "
+    "current_season"                "{d:year} SEASON {d:month}"
+    "agree_to_shuffle"      "Agree to Shuffle"
+
+    "cannot_remove_this_ability_now"    "CANNOT REMOVE THIS ABILITY NOW"
+
+        "econ_green"        "[EFFECT] GREEN PATH"
+    "econ_lava_trail"        "[EFFECT] LAVA TRAIL"
+    "econ_paltinum_baby_roshan"      "[EFFECT] PLATINUM"
+    "econ_legion_wings"              "[EFFECT] LEGION WINGS"
+    "econ_legion_wings_vip"              "GOLDEN LEGION WINGS"
+    "econ_legion_wings_pink"              "PINK LEGION WINGS"
+    "econ_darkmoon"                 "[EFFECT] DARKMOON"
+    "econ_sf_wings"                 "[KillEffect] DEMON WINGS"
+    "econ_sakura_trail"                 "[EFFECT] SAKURA TRAIL"
+    "econ_question_mark"                 "[KILL MARK]?"
+    "econ_jibururen_mark"                 "[KILL MARK]技不如人"
+    "econ_huaji"                 "[KILL MARK] 滑稽"
+    "econ_golden_ti7"                 "[EFFECT] GOLDEN AEGIS"
+    "econ_rank_top1"                 "[RANK]TOP1"
+    "econ_rank_top2"                 "[RANK]TOP2"
+    "econ_rank_top3"                 "[RANK]TOP3"
+    "econ_rank_top10"                 "[RANK]TOP10"
+    "econ_rank_top20"                 "[RANK]TOP20"
+    "econ_terror_wings"                 "[EFFECT] DEMON WINGS"
+    "econ_devil_circle"                 "[EFFECT] DEVIL CIRCLE"
+    "econ_shengfaji"                    "[DONATION] NO EFFECT"
+    "econ_dy_label"             "DOUYU LABEL"
+    "econ_pd_label"             "PANDA LABEL"
+    "econ_ethereal_flame_white"     "MYTHEREAL FLAME [WHITE]"
+    "econ_ethereal_flame_golden"    "MYTHEREAL FLAME [GOLDEN]"
+    "econ_ethereal_flame_pink"      "MYTHEREAL FLAME [PINK]"
+
+    "description_green"                 ""
+    "description_golden_ti7"                 ""
+    "description_darkmoon"                 ""
+    "description_lava_trail"       ""
+    "description_paltinum_baby_roshan"      ""
+    "description_terror_wings"                 ""
+    "description_devil_circle"                 ""
+    "description_legion_wings"              ""
+    "description_legion_wings_vip"              ""
+    "description_legion_wings_pink"              ""
+    "description_sf_wings"              ""
+    "description_sakura_trail"                 ""
+    "description_question_mark"                 ""
+    "description_jibururen_mark"                 ""
+    "description_huaji"                 ""
+    "description_shengfaji"                    "THIS ITEM HAS NO EFFECTS"
+    "description_ethereal_flame_white"     ""
+    "description_ethereal_flame_golden"    ""
+    "description_ethereal_flame_pink"      ""
+    "description_rank_top10"                 ""
+
+    "point_get_methods"             ""
+    "PurchasePlus"                  "Get Plus"
+
+    "ability_pool"                  "Ability Pool"
+
+    "points_remaining"              "Points Remaining:"
+
+    "my_points"         "My Points"
+    "show_point_history"    "Show Purchase History"
+
+    "point_methods_charge"      "DONATE"
+    "point_methods_system"      "SYSTEM"
+    "point_methods_rank"        "RANK"
+    "point_methods_pay"         "PURCHASE"
+
+    "become_bom_plus"               "WELCOME TO SUBSCRIBE BOM PLUS"
+    "plus_description"              "After subscribe, you can:<br>1.Re-Random your hero when game start.<br>2.Check the Ability Pool."
+
+    "purchase_option_30"            "SUBSCRIBE 30 DAYS"
+    "purchase_option_90"            "SUBSCRIBE 90 DAYS"
+    "purchase_option_180"            "SUBSCRIBE 180 DAYS"
+
+    "purchase_tooltip_30"          "COST 8 POINTS"
+    "purchase_tooltip_90"          "COST 24 POINTS"
+    "purchase_tooltip_180"          "COST 45 POINTS"
+
+    "plus_expire_time"              "Your subscription will(have) end on {d:day}/{d:month}/{d:year}."
+    "plus_message_not_enough_points" "Not enough points"
+    "plus_message_success"          "Thanks for your subscription."
+
+    "DOTA_Attribute_Strength"   "STRENGTH"
+    "DOTA_Attribute_Agility"   "AGILITY"
+    "DOTA_Attribute_Intellect"   "INTELLECT"
+
+    // "paypal_payment_tooltip"    "You can make a donation to my paypal to get points https://www.paypal.me/XavierCHN.<br><span class='BoldText'>$1=2PTS</span><br>Please don't forget to leave your dota 2 id in the comment, otherwise I will take it as a free donation.<br><span class='BoldText'>YOUR DOTA2 ID:{d:steamid}</span><br>This process can take 5 minutes to 24 hours because of manual operation is required.<br>If you need any assistance in payment, please write to Xavier_CHN@live.com."
+    "paypal_payment_tooltip"    "PAYMENT IS NOT AVAILABLE IN YOUR REGION AT THE MOMENT"
+
+    "qrcode_charge_tooltip"     "Payment is available via Alipay or Wechat only at the moment, scan the qrcode with the app."
+
+    "free_mode"                 "FREE MODE"
+    "free_mode_disabled"        "FREE MODE(ACTIVATED ON WEEKEND)" 
+    "free_mode_tooltip"         "Enabled every weenend!\nAll skills have the same probability to be found in spellbooks in this game."
+}

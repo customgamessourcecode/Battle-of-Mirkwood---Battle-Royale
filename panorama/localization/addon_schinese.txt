@@ -1,0 +1,258 @@
+"addon"
+{
+    "DOTA_GAMEMODE_15"        "丛林乱斗"
+    "da_game_info"              "丛林乱斗 v1.03 @ Xavier"
+
+    "text_star_title"        "{s:cur} / {s:max}"
+    "text_star_str"        "{s:value}"
+    "text_star_agi"        "{s:value}"
+    "text_star_int"        "{s:value}"
+
+    "DOTA_GoodGuys" "队伍1"
+    "DOTA_BadGuys"  "队伍2"
+    "DOTA_CUSTOM1"  "队伍3"
+    "DOTA_CUSTOM2"  "队伍4"
+    "DOTA_CUSTOM3"  "队伍5"
+    "DOTA_CUSTOM4"  "队伍6"
+    "DOTA_CUSTOM5"  "队伍7"
+    "DOTA_CUSTOM6"  "队伍8"
+    "DOTA_CUSTOM7"  "队伍9"
+    "DOTA_CUSTOM8"  "队伍X"
+
+    "rescale_alert_60"     "距离限制游戏区域还有60秒"
+    "rescale_alert_30"     "距离限制游戏区域还有30秒"
+    "remaining"     "剩余时间"
+    "fighting_area_rescaled"    "游戏区域已经缩小"
+    "hud_error_ability_is_full" "技能已满"
+
+    "ability_cant_bigger_than_hero_level"   "技能等级无法高过英雄等级"
+    "mh_hud_error_ability_reached_max_level"    "此技能已达到最大等级"
+    "mh_hud_error_ability_is_full"              "技能列表已满"
+    "ability_selector_title"                    "请选择一个技能"
+    "dont_want"                                 "都不想要"
+
+    "Chest"                                         "宝箱信使"
+    "ItemWillSpawn"                                 "即将出现！"
+    "ItemHasSpawned"                                "位置已经标识！"
+    "OverthrowHeroPickup"                           "{s:hero_id}"
+    "OverthrowTextPickup"                           "拾取了"
+    "OverthrowItemPickup"                           "{s:item_id}!"
+    "leader_got_nothing"                            "这是一个空箱子"
+
+    
+
+    "current_season"            "当前赛季:{d:year}年{d:month}月"
+    "bom_ladder"                "世界排名"
+
+    "failed_400"            "未找到该订单号"
+    "failed_401"            "该订单已经兑换！"
+    "charge"                "获取积分"
+    "my_points"             "我的积分"
+    "point_shop"            "积分商城"
+
+    "ad_close_tooltip"      "本面板将在3秒内自动关闭"
+    "close"                 "关闭"
+
+    "point_get_methods"        "积分获取方式：\n1. 在每个赛季结束时，名列世界排名前20 —— 5-20pts。 2. 捐赠。\n3. 通过邮件对游戏提出意见和建议被采纳的 —— 1-10pts。 4. 通过活动获取。"
+    "point_methods_charge"      "捐赠"
+    "point_methods_system"      "系统赠送"
+    "point_methods_rank"        "天梯系统"
+    "point_methods_feed"        "建议反馈"
+    "point_methods_pay"         "购买"
+    "refresh"                   "刷新"
+    
+    "econ_green"        "特效·幸福之赐"
+    "econ_lava_trail"        "特效·熔岩之径"
+    "econ_paltinum_baby_roshan"      "特效·离子之气"
+    "econ_legion_wings"              "特效·军团之翼"
+    "econ_legion_wings_vip"              "军团之翼·土豪金"
+    "econ_legion_wings_pink"              "军团之翼·粉色"
+    "econ_darkmoon"                 "特效·暗月腐化"
+    "econ_sf_wings"                 "击杀特效·恶魔之翼"
+    "econ_sakura_trail"                 "特效·樱花之经"
+    "econ_question_mark"                 "击杀涂鸦·问号"
+    "econ_jibururen_mark"                 "击杀涂鸦·技不如人"
+    "econ_huaji"                 "击杀涂鸦·滑稽"
+    "econ_golden_ti7"                 "纯金·不朽守护"
+    "econ_rank_top1"                 "绝世高手【第一】"
+    "econ_rank_top2"                 "绝世高手【第二】"
+    "econ_rank_top3"                 "绝世高手【第三】"
+    "econ_rank_top10"                 "绝世高手【前十】"
+    "econ_rank_top20"                 "绝世高手【前20】"
+    "econ_label_lksn"                 "定制称号·冷库少年"
+    "econ_label_mmfs"                 "定制称号·魔魔粉丝"
+    "econ_label_bznh"                 "定制称号·宝藏男孩"
+    "econ_terror_wings"                 "恐怖之翼"
+    "econ_devil_circle"                 "失落法阵"
+    "econ_shengfaji"                    "作者的生发专项赞助"
+    "econ_dy_label"             "斗鱼肉搏赛称号"
+    "econ_dy_new_1"             "斗鱼肉搏冠军"
+    "econ_dy_new_2"             "斗鱼肉搏亚军"
+    "econ_dy_new_3"             "斗鱼肉搏季军"
+    "econ_pd_label"             "熊猫肉搏赛称号"
+    "econ_ethereal_flame_white"     "虚无之焰·白色"
+    "econ_ethereal_flame_golden"    "虚无之焰·金色"
+    "econ_ethereal_flame_pink"      "虚无之焰·粉色"
+    "econ_rich"                     "称号·富可敌国"
+
+    "description_green"                 "这个道具可以给你的英雄添加幸福之赐的粒子特效。【永久】【可叠加】"
+    "description_golden_ti7"                 "这个道具可以给你的英雄添加纯金·不朽守护的粒子特效。【永久】【可叠加】"
+    "description_darkmoon"                 "这个道具可以给你的英雄添加暗月腐化的粒子特效。【永久】【可叠加】"
+    "description_lava_trail"       "这个道具可以给你的英雄添加熔岩之经的粒子特效。【永久】【可叠加】"
+    "description_paltinum_baby_roshan"      "这个道具可以给你的英雄添加离子之气的粒子特效。【永久】【可叠加】"
+    "description_terror_wings"                 "这个道具可以给你的英雄添加恐怖之翼的粒子特效。【永久】【可叠加】"
+    "description_devil_circle"                 "这个道具可以给你的英雄脚下添加失落法阵的粒子特效。【永久】【可叠加】"
+    "description_legion_wings"              "这个道具可以给你的英雄添加军团之翼的粒子特效。【永久】【可叠加】"
+    "description_legion_wings_vip"              "这个道具可以给你的英雄添加军团之翼·土豪金的粒子特效。【永久】【可叠加】"
+    "description_legion_wings_pink"              "这个道具可以给你的英雄添加军团之翼·粉色的粒子特效。【永久】【可叠加】"
+    "description_sf_wings"              "当你装备着这个道具击杀了敌方英雄，就会触发恶魔之翼特效。【永久】【可叠加】"
+    "description_sakura_trail"                 "这个道具可以给你的英雄添加樱花之经的粒子特效。【永久】【可叠加】"
+    "description_question_mark"                 "在击杀敌人之后，可以在他死亡的位置留下“？”涂鸦来表示友好。【永久】【不与其他击杀涂鸦叠加】"
+    "description_jibururen_mark"                 "在击杀敌人之后，可以在他死亡的位置留下“技不如人”涂鸦来表示友好。【永久】【不与其他击杀涂鸦叠加】"
+    "description_huaji"                 "在击杀敌人之后，可以在他死亡的位置留下“滑稽”涂鸦来表示友好。【永久】【不与其他击杀涂鸦叠加】"
+    "description_shengfaji"                    "此项目可无限次数购买，无任何效果，视为纯粹对作者的赞助。"
+    "description_ethereal_flame_white"     "这个道具可以给你的英雄添加虚无之焰·白色的粒子特效。"
+    "description_ethereal_flame_golden"    "这个道具可以给你的英雄添加虚无之焰·金色的粒子特效。"
+    "description_ethereal_flame_pink"      "这个道具可以给你的英雄添加虚无之焰·粉色的粒子特效。"
+    "description_rank_top10"                 "给赛季天梯前十的玩家的奖励。"
+    "description_rich"                 "这个道具可以给你的英雄添加富可敌国的称号。"
+
+    "econ_forged_spirit"        "小伙伴·小火人"
+    "econ_forged_spirit_tooltip"    "给你的"
+
+    "purchase_cost"             "消耗{s:cost}积分购买"
+    "confirm_purchase_msg"      "你确定需要消耗 {d:cost} 点积分购买 {s:item_name} 吗？<br>{s:item_description}"
+
+    "point_shop_is_now_open"    "积分商店现已开放！"
+
+    "show_point_history"        "积分历史"
+
+    "MyProfile"        "个人资料"
+    "WorldRank"        "天梯排行"
+    "Rules"        "新游预告"
+    "Shop"        "特效商店"
+    "Collection"        "我的收藏"
+    "GetPoints"     "获取积分"
+
+    "equip"         "装备"
+    "remove"        "卸下"
+    "refresh"       "刷新"
+    "confirm_equip" "确认"
+
+    "need10game"       "待定"
+
+    "not_implement_yet"        "还没做完呢，敬请期待"
+
+    "player_max_star"        "星星数量已经达到上限！"
+    "hero_dead"        "死亡"
+    "world_rank"        "丛林乱斗天梯"
+
+    "gold_not_enough"        "金币不足"
+    "strength_low"        "力量不足"
+    "agility_low"        "敏捷不足"
+    "intellect_low"        "智力不足"
+    "finish_current_state_first"        "请先完成当前技能移除操作"
+    "have_no_ability"        "当前技能数为0"
+    "remove_tooltip"        "右键点击技能来删除，CTRL+右键取消删除。"
+    "ability_cant_bigger_than_hero_level"        "技能等级不允许超过英雄等级。"
+
+    "reconnected_to_game"        "重新加入了战斗！"
+    "has_abaddon_the_game"        "这个懦夫逃跑了！"
+    "team_full_disconnect_game_end_in"        "所有敌人都已经退出游戏，游戏即将结束... "
+    "you_cannot_learn_this_ability"        "你的英雄无法学习此技能。"
+    "xiaolu_was_killed_forest_become_angry"        "森林的守护者被击杀了，丛林变得愤怒了！"
+    "wa_hud_error_not_sellable"        "无法出售此物品"
+    "wa_hud_error_invalid_pos"        "无效的施放地点"
+    "next_duel_in_120_seconds"        "下一场决斗将于120秒之后开始"
+    "has_won_the_duel"        "在决斗中取得了胜利"
+    "duel_bonus"        "获得了10积分及200金钱的决斗奖励"
+    "duel_pull"        "决斗为平局"
+    "duel_will_start_in"        "决斗即将开始"
+    "disconnect_message_goodguys"        "龙虾队有人离开了游戏，螃蟹队胜利所需分数："
+    "disconnect_message_badguys"        "螃蟹队有人离开了游戏，龙虾队胜利所需分数："
+
+    "hero_selector_title"           "选择你的英雄"
+
+    "hud_error_only_one_ultimate"       "最多只能有一个终极技能"
+    "cannot_purchase_this_item_while_dead"  "死亡时无法购买此物品"
+    "cannot_remove_this_ability"            "无法移除此技能"
+    "suicide_in_20_seconds"            "将于20秒之后自爆"
+    "purchase_again_to_confirm"         "确定？请再购买一次此物品"
+    "cannot_remove_ability_dead"        "无法移除技能（死亡）"
+
+    "custom_end_screen_legend_abilities"    "技能"
+    "custom_end_screen_legend_ratings"      "天梯"
+
+    "vote_for_kills_to_win"         "击杀数投票"
+    "time_limit"                    "游戏总时长：{d:minutes}:{d:seconds}"
+
+    "hud_tooltip_cannot_bash"       "学习此技能之后，你的碎颅锤和深渊之刃将无法击晕敌人"
+
+    "battle_royale_plus"            "菜   单 "
+
+    "become_bom_plus"               "欢迎订阅乱斗PLUS"
+    "plus_description"              "通过订阅乱斗PLUS，你可以<br>1.游戏开始的时候可以重新随机一次英雄。<br>2.可以查看本局比赛的技能池。"
+
+    "purchase_option_30"            "订阅30天"
+    "purchase_option_90"            "订阅90天"
+    "purchase_option_180"            "订阅180天"
+
+    "purchase_tooltip_30"          "消耗8积分"
+    "purchase_tooltip_90"          "消耗24积分"
+    "purchase_tooltip_180"          "消耗45积分"
+
+    "plus_expire_time"              "你的乱斗PLUS订阅(将)于{d:year}年{d:month}月{d:day}日到期"
+    "plus_message_not_enough_points" "积分不足"
+    "plus_message_success"          "订阅成功"
+
+    "donot_purchase_this_too_fast"      "此物品请勿购买过快！"
+
+    "ability_pool"                  "技能池"
+    "rerandom"                      "重新随机"
+    "PurchasePlus"                  "订阅会员"
+
+    "points_remaining"              "您当前剩余积分:"
+
+    "arena_1x10"            "单人模式"
+    "arena_2x6"            "双人模式"
+    "arena_3x4"            "三人模式"
+    "arena_4x4"            "四人模式"
+    "arena_5v5"            "团队模式"
+
+    "congrates_first_place" "大吉大利，老板大气！"
+    "encourage_runner_ups"        "不抛弃，不放弃，下次一定得第一"
+
+    "querying_plus_data_from_server"    "正在获取PLUS信息"
+
+    "dc_token"      "秒退:{d:dc_count}"
+
+    "hud_tooltip_waiting_for_precache"  "正在后台载入英雄数据，替换英雄前请勿购物或随星，也千万不要退出游戏"
+    "hud_tooltip_model_cannot_bash"     "选择此模型，你的碎颅锤和深渊之刃将无法击晕敌人"
+
+    "team_select_legend_player_name"        "玩家ID"
+    "team_select_legend_rating"     "天梯积分"
+    "team_select_match_count"       "总场次"
+    "team_select_top1_count"       "第一"
+    "team_select_top3_count"        "前三"
+    "team_select_disconnect_count"      "秒退数"
+    "team_select_average_kda"       "平均KDA"
+    "team_select_leave_team"        "X"
+
+    "hud_tooltip_rating_and_disconnect" "成功连接至积分服务器，将记录本场比赛结果。如果早于5分钟离开，则会记录为秒退并双倍扣分。"
+
+    "current_season"                "{d:year}年第{d:month}赛季"
+
+    "agree_to_shuffle"      "同意洗牌"
+    
+    "cannot_remove_this_ability_now"    "此时无法移除此技能"
+
+    "DOTA_Attribute_Strength"   "力量"
+    "DOTA_Attribute_Agility"   "敏捷"
+    "DOTA_Attribute_Intellect"   "智力"
+
+    "qrcode_charge_tooltip"      "如遇二维码无法显示，请在地址栏单击后按Ctrl+A,Ctrl+C复制地址并粘贴到自己的浏览器中完成支付（支付宝的地址由于太长了所以是黑的，请放心复制）。<br>如果无法复制，请下一局再试试。<br>"
+
+    "free_mode"                 "狂野模式"
+    "free_mode_disabled"        "狂野模式（周末激活）" 
+    "free_mode_tooltip"         "每个周六和周日激活！如果有超过6个玩家同意开启狂野模式，本场游戏将不会有低概率技能限制（所有技能都将有一样的概率出现）。"
+}

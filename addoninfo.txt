@@ -1,0 +1,25 @@
+"AddonInfo"
+{
+	maps			"arena_1x10 arena_2x6 arena_3x4 arena_4x3 arena_5v5"
+	"HeroGuidesSupported"	"0"
+	"arena_1x10"
+	{
+		"MaxPlayers"		"10"
+	}
+	"arena_2x6"
+	{
+		"MaxPlayers"		"12"
+	}
+	"arena_3x4"
+	{
+		"MaxPlayers"		"12"
+	}
+	"arena_4x3"
+	{
+		"MaxPlayers"		"12"
+	}
+	"arena_5v5"
+	{
+		"MaxPlayers"		"10"
+	}
+}

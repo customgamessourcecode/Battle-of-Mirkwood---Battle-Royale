@@ -1,0 +1,326 @@
+"DOTAAbilities"
+{
+	"item_smoke_of_deceit" "REMOVE"
+	// "item_tpscroll" "REMOVE"
+	"item_ward_observer" "REMOVE"
+	"item_ward_sentry" "REMOVE"
+	"item_tome_of_knowledge" "REMOVE"
+	"item_bottle" "REMOVE"
+	"item_travel_boots"	"REMOVE"
+	"item_gem"			"REMOVE"
+
+	"item_recipe_octarine_core"
+	{
+		"ItemCost"						"1000"	
+	}
+	
+	"item_octarine_core"
+	{
+		"ItemCost"						"6900"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_intelligence"	"25"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_health"			"425"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_mana"			"425"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_cooldown"		"25"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"hero_lifesteal"		"50"
+			}			
+			"06"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"creep_lifesteal"		"50"
+			}	
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"active_duration"		"7"
+			}
+		}
+	}
+
+	"elder_titan_natural_order"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"radius"					"350"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"armor_reduction_pct"	    "20 40 60 80"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"magic_resistance_pct"		"30 40 50 60"
+			}
+		}
+	}
+
+	"tidehunter_kraken_shell"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage_reduction"		"12 24 36 48"
+				"LinkedSpecialBonus"	"special_bonus_unique_tidehunter_4"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage_cleanse"		"1300 1200 1100 1000"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"damage_reset_interval"	"4.5 4.5 4.5 4.5"
+			}
+		}
+	}
+
+	"elder_titan_return_spirit"
+	{
+		"AbilityCooldown"				"0.1"
+	}
+
+	"shredder_return_chakram"
+	{
+		"AbilityCooldown"				"0.1"
+	}
+
+	"item_monkey_king_bar"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_damage"			"52"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_attack_speed"	"10"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_chance"			"50"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_chance_damage"			"100"
+			}
+		}
+	}
+
+	"item_recipe_kaya"
+	{
+		"ItemCost"						"1000"	
+		"ItemRequirements"
+		{
+			"01"						"item_mystic_staff;item_staff_of_wizardry;item_robe"
+		}
+	}
+
+	"item_recipe_silver_edge"
+	{
+		"ItemCost"				"0"
+	}
+
+	"item_kaya"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_intellect"			"30"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"manacost_reduction"			"25"
+			}			
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"spell_amp"			"25"
+			}
+		}
+	}
+
+	"item_kaya_and_sange"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_strength"		"16"
+			}		
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_intellect"			"30"
+			}		
+			"03"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"status_resistance"				"16"
+			}		
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"manacost_reduction"			"28"
+			}	
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"spell_amp"			"28"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_damage"			"12"
+			}
+		}
+	}
+
+	"item_yasha_and_kaya"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_agility"			"16"
+			}		
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_intellect"			"30"
+			}			
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_attack_speed"	"16"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"manacost_reduction"			"28"
+			}
+			"05"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"movement_speed_percent_bonus"	"12"
+			}		
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"spell_amp"			"28"
+			}
+		}
+	}
+
+	"item_refresher"
+	{
+		
+		"AbilityCooldown"				"50.0"
+	}
+
+	"item_recipe_desolator"
+	{
+		"ItemCost"						"1000"
+	}
+
+	"item_desolator"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_damage"			"50"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"corruption_armor"		"-12"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"corruption_duration"	"15.0"
+			}
+		}
+	}
+
+	"item_satanic"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_strength"		"25"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_damage"			"25"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"lifesteal_percent"		"25"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"unholy_lifesteal_percent"	"175"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"unholy_lifesteal_total_tooltip"	"200"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"unholy_duration"		"5.0"
+			}
+			"08"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"status_resistance"			"10"
+			}
+		}
+	}
+}
